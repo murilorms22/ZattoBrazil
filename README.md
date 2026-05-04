@@ -173,7 +173,3 @@ import { Inter } from 'next/font/google';
 ## 📄 Licença
 
 Este projeto é privado e pertence à Zatto Brazil.
-
----
-
-Desenvolvido com ❤️ por um Engenheiro Front-end Sênior
